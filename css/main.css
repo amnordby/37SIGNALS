@@ -240,16 +240,14 @@ hr{
     padding-bottom: 20px;
 }
 .arrow-right{
-    display: flex;
-    position: absolute;
-    right: 13%;
-    top: 273%;
+    position: relative;
+    right: 2%;
+    bottom: 200px;
 }
 .paper{
-    display: inline-block;
-    position: absolute;
+    position: relative;
     right: 2%;
-    top: 265%;
+    bottom: 200px;
 }
 .paper p{
     text-align: center;
